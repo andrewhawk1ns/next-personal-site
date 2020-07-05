@@ -1,6 +1,6 @@
 # NextJS Personal Website
 
-A Next.js personal website learning project
+A Next.js personal website learning project.
 
 ## Getting Started
 
