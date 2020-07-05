@@ -1,4 +1,4 @@
-# NextJS Personal Website
+# Next.js Personal Website
 
 A Next.js personal website learning project.
 
