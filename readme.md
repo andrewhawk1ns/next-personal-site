@@ -1,9 +1,6 @@
 # NextJS Personal Website
 
-## Install
+## Getting Started
 
-yarn
-
-## Usage
-
-Run "yarn dev" to run the project on port 4000
+1. Install dependencies with `yarn`
+2. Run the project with `yarn dev`
